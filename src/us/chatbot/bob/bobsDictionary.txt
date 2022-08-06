@@ -1,0 +1,27 @@
+greeting: Hello, I'm Bob, what's your name?
+denial: shut up.. i don't want to talk to you ever again..
+defaults: a:I don't quiet understand.. Mind switching topics?,,,I'm not sure I understand.. I'm sorry. Would you like to talk about something else? My favorite topic is family!,,,I'm sorry I can't comprehend my programmer must have skipped over that line!,,,Beep-boop Beep-boop.. can't process that one! Sorry :(
+why: a:I don't know.. I've just always had strong feelings towards %t%. How do you feel about %t%?,,,Because. I'm a robot and have no emotion towards your human feelings about %t%.
+howAreYou: a:how are you,,,how are u,,,how r you,,,how r u,,,hru,,,h r u,,,how about you,,,how abt you,,,how abt u,,,how about yourself,,,how abt yourself
+happy: a:good,,,im good,,,i'm good,,,im gud,,,i'm gud,,,im doing good,,,i'm doing good,,,im doing gud,,,i'm doing gud,,,im great,,,i'm great,,,im gr8,,,i'm gr8,,,im doing great,,,i'm doing great,,,im doing gr8,,,i'm doing gr8,,,fantastic,,,great
+ok: a:ok,,,eh,,,i'm fine,,,im fine,,,doing fine,,,doin fine,,,fine
+bad: a:bad,,,horible,,,terrible,,,awful,,,dont want to talk about it,,,don't want to talk about it
+greetings: a:hi,,,hey,,,hay,,,greetings,,,howdy,,,welcome,,,hi-ya,,,howdy-do,,,howdy do,,,what's up,,,hello
+opinions: a:do you like,,,your opinion on
+offended: a:how dare you,,,how could you,,,take it back,,,stop it,,,that was not nice,,,that wasn't nice,,,that was mean
+question: a:did you
+thanks: a:thanks,,,thank you,,,gracias,,,appreicate it
+gratitude: a:you are welcome,,,you're welcome,,,your welcome,,,denada,,,de nada
+negation: a:no,,,not
+howAreYouResponse: a:I am doing great! Thank you for asking! How are you doing?,,,I'm good! How about yourself?,,,I'm doing alright.. I think I'll cheer up if you talk to me more!,,,As a robot,,,I am unable to express emotion; but if I did,,,I would be happy! What about you?
+badEmotionResponse: a:I'm sorry.. Is there anything I could do to cheer you up.,,,Oh no! What's wrong?,,,I hope you feel better.. Would you like to talk about it?,,,How about you turn that frown upside down!
+okEmotionResponse: a:That's cool! I am glad you are having a good day!,,,Awesome! I am glad you are doing ok.,,,That's alright! How can I make your day better? :)
+goodEmotionResponse: a:That's awesome! Keep up those positive vibes man!,,,Im glad your happy! I wish my programmer allowed me to be happy..,,,Send those vibes my way man! You can never be too happy!
+questionResponse: a:My programmer told me too.,,,I don't recall doing that.,,,My programmer told me not to comment on that situation.,,,My code got a little glitchy. I'm sorry.,,, I didn't mean it.
+greetingList:How are you doing today?,,,Hi,,,how are you doing?,,,Hello my name is Bob,,,how are you doing?,,,Hi %n% my name is Bob
+yes: a:yes,,,ya,,,yep,,,yas,,,yaas,,,yass,,,yess,,,yessir,,,mhm,,,yeah,,,of course,,,sure,,,totally
+no: a:no,,,nope,,,nop,,,absolutely not,,,not today,,, negative
+family: a:mother,,,mom,,,father,,,dad,,,sister,,,brother,,,aunt,,,uncle,,,cousin,,,grandpa,,,grandfather
+offer: a:would you like,,,would you be interested,,,wanna go,,,do you want to
+offerResponse: a:i would love %o%.,,,Sure thing i'll come with you %o%.
+a family: your parents and siblings
